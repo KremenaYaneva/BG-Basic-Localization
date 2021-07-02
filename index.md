@@ -1,4 +1,4 @@
-﻿# Dynamics 365 Business Central
+# Dynamics 365 Business Central
 # Пакет локализация за България
 
 ## ФТС България 
